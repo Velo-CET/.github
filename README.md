@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_LOGO_URL_HERE" alt="VeloCET Logo" width="180"/>
+  <img src="VeloCET.png" alt="VeloCET Logo" width="180"/>
 </p>
 
 <h1 align="center">🚀 VeloCET</h1>
