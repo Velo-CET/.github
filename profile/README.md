@@ -9,6 +9,8 @@
 </p>
 
 ---
+Website : velocet.cet.ac.in
+
 
 ## 🌟 About VeloCET
 VeloCET is the official rocketry club of **College of Engineering Trivandrum**, dedicated to advancing student-led aerospace engineering.  
