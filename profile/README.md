@@ -9,7 +9,7 @@
 </p>
 
 ---
-Website : velocet.cet.ac.in
+[🌐 VeloCET Official Website](https://velocet.cet.ac.in)
 
 
 ## 🌟 About VeloCET
